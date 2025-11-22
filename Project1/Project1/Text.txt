@@ -1,0 +1,9 @@
+get user input
+find max
+	at index #
+find min
+	at index #
+find average
+dispay results
+
+
